@@ -13,7 +13,7 @@ from pynput import keyboard
 from fpdf import FPDF
 
 # --- CONFIGURATION ---
-OUTPUT_PDF = "scraped_book.pdf"
+OUTPUT_PDF = "book.pdf"
 NEXT_BTN_IMG = "next_button.png"
 IMG_SAVE_DIR = "extracted_images"
 
