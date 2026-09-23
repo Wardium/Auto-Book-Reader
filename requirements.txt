@@ -1,0 +1,8 @@
+PyAutoGUI
+pytesseract
+opencv-python
+numpy
+ImageHash
+Pillow
+pynput
+fpdf2
